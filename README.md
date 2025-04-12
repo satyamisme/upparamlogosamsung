@@ -1,6 +1,6 @@
-# Samsung Galaxy A32 Clean Boot Script
+# Samsung Galaxy  Clean Boot logo Script
 
-This script (`auto_clean_boot.txt`) automates the process of suppressing bootloader warnings (specifically, removing `booting_warning.jpg` and `svb_orange.jpg`) on a Samsung Galaxy A32 (SM-A325F, MT6768). [cite: 1, 2]
+This script (`auto_clean_boot.txt`) automates the process of suppressing bootloader warnings (specifically, removing `booting_warning.jpg` and `svb_orange.jpg`) on a Samsung . [cite: 1, 2]
 
 **WARNING:** This script requires your device to be rooted and have USB debugging enabled. Proceed with caution and at your own risk.
 
@@ -24,7 +24,7 @@ This script (`auto_clean_boot.txt`) automates the process of suppressing bootloa
 
 ## Prerequisites
 
-* Samsung Galaxy A32 (SM-A325F, MT6768)
+* Samsung Galaxy 
 * Root access (e.g., Magisk)
 * USB debugging enabled
 * ADB (Android Debug Bridge) installed on your PC and added to your system's PATH.
